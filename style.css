@@ -17,9 +17,12 @@ nav {
     width: 495px;
     float: left;
     padding: 20px;
-    margin-bottom:20px;
     text-align: center;
     overflow:auto;
+}
+
+.mainsection {
+    padding: 10px;
 }
 
 aside {
