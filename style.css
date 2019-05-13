@@ -1,18 +1,29 @@
 header {
     background: #ebebeb;
+    padding: 20px;
+    margin-bottom:20px;
+    text-align: center;
 }
 
 nav {
     background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 section {
     background: #ebebeb;
     width: 495px;
+    float: left;
+    padding: 20px;
+    margin-bottom:20px;
+    text-align: center;
 }
 
 aside {
     background: #ebebeb;
+    float: left;
 }
 
 footer {
@@ -22,6 +33,7 @@ footer {
 article {
     color: #ebebeb;
     background:#777;
+    text-align: center;
 }
 
 body {
@@ -34,9 +46,11 @@ body {
 h1 {
     color:#777;
     background: #ebebeb;
+    text-align: center;
 }
 
 p {
     color:#777;
     background: #ebebeb;
+    text-align: center;
 }
