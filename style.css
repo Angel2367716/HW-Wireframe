@@ -12,13 +12,14 @@ nav {
     text-align: center;
 }
 
-section {
+#full {
     background: #ebebeb;
     width: 495px;
     float: left;
     padding: 20px;
     margin-bottom:20px;
     text-align: center;
+    overflow:auto;
 }
 
 aside {
