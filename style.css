@@ -21,17 +21,14 @@ nav {
     overflow:auto;
 }
 
-.mainsection {
-    padding: 10px;
-}
-
 aside {
     background: #ebebeb;
-    float: left;
+    float: right;
     padding: 20px;
-    margin-bottom:20px;
+    margin-left:20px;
     text-align: center;
     width: 385px;
+    height: 235px;
 }
 
 footer {
