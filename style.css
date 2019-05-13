@@ -24,16 +24,23 @@ section {
 aside {
     background: #ebebeb;
     float: left;
+    padding: 20px;
+    margin-bottom:20px;
+    text-align: center;
 }
 
 footer {
     background: #ebebeb;
+    padding: 20px;
+    text-align: center;
+    margin-top: 200px;
 }
 
 article {
     color: #ebebeb;
     background:#777;
     text-align: center;
+    margin-top: 20px;
 }
 
 body {
