@@ -24,18 +24,18 @@ nav {
 aside {
     background: #ebebeb;
     float: right;
-    padding: 20px;
     margin-left:20px;
     text-align: center;
     width: 385px;
-    height: 235px;
+    height: 265px;
+    padding-top: 20px;
 }
 
 footer {
     background: #ebebeb;
     padding: 20px;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 330px;
 }
 
 article {
