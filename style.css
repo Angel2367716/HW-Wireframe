@@ -22,6 +22,11 @@ nav {
     overflow:auto;
 }
 
+#section{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 aside {
     background: #ebebeb;
     float: right;
