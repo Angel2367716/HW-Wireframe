@@ -20,6 +20,8 @@ nav {
     padding: 20px;
     text-align: center;
     overflow:hidden;
+    padding: 20px;
+    margin-bottom: 30px;
 }
 
 #section{
@@ -35,11 +37,11 @@ aside {
     margin-right: auto;
     text-align: center;
     width: 385px;
-    height: 265px;
+    height: 264px;
     padding-left: 10px;
     padding-right: 20px;
     padding-top: 20px;
-    padding-bottom:0; 
+    padding-bottom:20px; 
 }
 
 footer {
@@ -47,6 +49,7 @@ footer {
     padding: 20px;
     text-align: center;
     clear: both;
+   
 }
 
 article {
