@@ -19,12 +19,13 @@ nav {
     float: left;
     padding: 20px;
     text-align: center;
-    overflow:auto;
+    overflow:hidden;
 }
 
 #section{
     margin-top: 0;
     margin-bottom: 0;
+    width: 495px;
 }
 
 aside {
@@ -45,7 +46,7 @@ footer {
     background: #ebebeb;
     padding: 20px;
     text-align: center;
-    margin-top: 330px;
+    clear: both;
 }
 
 article {
